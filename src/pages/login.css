@@ -1,0 +1,8 @@
+.loginContainer {
+    margin: 40px;
+}
+
+.loginContainer input{
+    margin: 10px;
+    display: block;
+}
